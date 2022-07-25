@@ -112,24 +112,6 @@ msgid "Address"
 msgstr ""
 
 #, elixir-format
-<<<<<<< HEAD
-=======
-#: lib/block_scout_web/templates/transaction/overview.html.eex:213
-msgid "Address (external or contract) receiving the transaction."
-msgstr ""
-
-#, elixir-format
-#: lib/block_scout_web/templates/transaction/overview.html.eex:193
-msgid "Address (external or contract) sending the transaction."
-msgstr ""
-
-#, elixir-format
-#: lib/block_scout_web/templates/tokens/overview/_details.html.eex:50
-msgid "Address of the token contract"
-msgstr ""
-
-#, elixir-format
->>>>>>> master
 #: lib/block_scout_web/templates/address/index.html.eex:5
 msgid "Addresses"
 msgstr ""
@@ -3383,17 +3365,6 @@ msgid "method Response"
 msgstr ""
 
 #, elixir-format
-<<<<<<< HEAD
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:43
 msgid "receive"
 msgstr ""
-=======
-#: lib/block_scout_web/templates/address/overview.html.eex:165
-msgid "Address balance in"
-msgstr ""
-
-#, elixir-format
-#: lib/block_scout_web/templates/address/overview.html.eex:165
-msgid "doesn't include ERC20, ERC721, ERC1155 tokens)."
-msgstr ""
->>>>>>> master
