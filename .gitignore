@@ -49,5 +49,8 @@ screenshots/
 .idea/
 *.iml
 
+<<<<<<< HEAD
 # Visual Studio Code
+=======
+>>>>>>> a23bdf2da0ccf57e4798e9ee6ad0aac8fed9e463
 .vscode
